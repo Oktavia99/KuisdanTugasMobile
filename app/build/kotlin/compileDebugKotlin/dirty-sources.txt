@@ -1,0 +1,10 @@
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\ui\main\UserAdapter.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\data.model\UserResponse.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\api\RetrofitClient.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\api\Api.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\ui\detail\DetailViewModel.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\ui\detail\DetailActivity.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\data.model\User.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\ui\main\MainViewModel.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\data.model\DetailUser.kt
+D:\AndroidStudioProjects\TugasMobile\app\src\main\java\comf55118081\example\tugasmobile\ui\main\MainActivity.kt
